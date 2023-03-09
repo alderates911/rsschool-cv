@@ -24,9 +24,9 @@ I am 25 y/o. I have a higher economic education with a degree in finance and cre
 
 # Code example:
 
-function getExponent(num, exponent){
-return Math.pow(num, exponent);
-}
+    function getExponent(num, exponent){
+    return Math.pow(num, exponent);
+    }
 
-let result = getExponent(2, 3);
-alert(result);
+    let result = getExponent(2, 3);
+    alert(result);
