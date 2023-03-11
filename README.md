@@ -1,1 +1,1 @@
-https://alderates911.github.io/rsschool-cv/cv
+https://alderates911.github.io/rsschool-cv/
